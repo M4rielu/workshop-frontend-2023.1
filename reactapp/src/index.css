@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body{
+  padding: 0;
+  margin: 0;
+  font-family: 'Bebas Neue', cursive;
+  background-color: rgb(237, 241, 214);
+  color: rgb(24, 24, 35);
+}

@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "dom": "^0.0.3",
+    "react-router-dom": "^6.10.0",
+    "reactapp": "^1.0.0"
+  }
+}
